@@ -21,6 +21,7 @@
   <a href="https://instagram.com/clickrapha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:clickrapha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/clickrapha/clickrapha/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/clickrapha/clickrapha/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation](https://github.com/clickrapha/clickrapha/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
